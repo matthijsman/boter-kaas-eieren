@@ -11,8 +11,8 @@ namespace TicTacToe
         public void Run()
         {
             var matthijs = 1;
-            var awesome = 1;
-            while (matthijs == awesome)
+            var lelijk = 1;
+            while (matthijs == lelijk)
             {
                 var text = Console.ReadLine();
                 if (string.IsNullOrEmpty(text))
